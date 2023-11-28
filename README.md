@@ -9,8 +9,10 @@ PostgreSQL
 
 Generar Jar:
 - ./mvnw clean package -DskipTests
+  
 Build:
 - docker-compose build
+  
 Ejecucion:
 -  docker-compose up  
 
